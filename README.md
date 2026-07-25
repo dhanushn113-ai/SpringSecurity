@@ -161,8 +161,4 @@ After completing these examples, you will understand:
 
 ## 👨‍💻 Author
 
-**Dhanush N**
-
-## ⭐ Support
-
-If you found this repository helpful, consider giving it a ⭐ on GitHub.
+Made with ❤️ by **Dhanush N**
