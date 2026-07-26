@@ -161,4 +161,14 @@ After completing these examples, you will understand:
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **Dhanush N**
+Dhanush N
+---
+
+<p align="center">
+⭐ If you found this project helpful, consider giving it a star.
+</p>
+
+<p align="center">
+Made with ❤️ by <b>Dhanush N</b>
+</p>
+
